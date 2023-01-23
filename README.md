@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aaryan Garhewal</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&lines=I+am+Aaryan+Garhewal)](https://git.io/typing-svg)
 <h3 align="center">A passionate Java and Web Developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryangarhewal&label=Profile%20views&color=0e75b6&style=flat" alt="aaryangarhewal" /> </p> -->
